@@ -1,7 +1,7 @@
 # cut-it
 
->一个图片裁切桌面应用，把图片裁切为选中的多个小图片。
->a desktop application to cut images into many pieces.<br/>
+>一个图片裁切桌面应用，把图片裁切为选中的多个小图片。<br/>
+>a desktop application to cut images into many pieces.
 
 ![演示图片1](https://res.cloudinary.com/dlf0lauxy/image/upload/v1664635038/github/1_koj4gn.png)
 ![演示图片2](https://res.cloudinary.com/dlf0lauxy/image/upload/v1664635037/github/2_udkhpq.png)
